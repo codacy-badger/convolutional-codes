@@ -25,7 +25,7 @@
 #     { 'new' => '01', 'out' => '01' },
 #     { 'new' => '11', 'out' => '10' }
 #   ]
-}
+# }
 # Each key is a state, and each value is a list of hashes
 # representing the new state and output when given an input (the index).
 # The starting and accepting state columns are omitted because
